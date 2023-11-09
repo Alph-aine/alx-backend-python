@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+'''callable function'''
 from typing import Callable
 
 
